@@ -9,4 +9,5 @@ To execture this role-playing game. You have to prepare the following things:
 8. modify config.yml we provided with your own path of the model file.
 9. run: python ~/parlai/chat_service/services/terminal_chat/run.py --config-path /path/to/config.yml
 10. run: python ~/parlai/chat_service/services/terminal_chat/client.py
+
 In this way, you can use this role-playing game on your PC
