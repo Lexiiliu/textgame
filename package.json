@@ -20,7 +20,7 @@
     "nunjucks": "3.0.1",
     "wait-until": "0.0.2",
     "ws": "5.2.3"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Lexiiliu/textgame"
